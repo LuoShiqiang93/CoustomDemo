@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AnimationButton">
+
+        <attr name="contentText" format="string" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color|reference" />
+        <attr name="bgColor" format="reference|color" />
+        <attr name="arcColor" format="reference|color" />
+
+
+    </declare-styleable>
+
+</resources>
